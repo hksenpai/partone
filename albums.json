@@ -1,0 +1,20 @@
+[
+    {
+        "Album Title": "21",
+        "Artist": "Adele",
+        "Tracks": ["Rolling in the Deep", "Rumour Has It", "Turning Tables", "Set Fire to the Rain", "Someone Like You"],
+        "Year Released": 2011
+    },
+    {
+        "Album Title": "Thriller",
+        "Artist": "Michael Jackson",
+        "Tracks": ["Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean", "Human Nature"],
+        "Year Released": 1982
+    },
+    {
+        "Album Title": "Back in Black",
+        "Artist": "AC/DC",
+        "Tracks": ["Hells Bells", "Shoot to Thrill", "Back in Black", "You Shook Me All Night Long", "Rock and Roll Ain't Noise Pollution"],
+        "Year Released": 1980
+    }
+]
